@@ -1,5 +1,22 @@
 {
   "sites": [
-    
+    {
+    "id": "uSq3UH1D9FTlteuYeKrJZTmAw0k2",
+    "name": "RMIT Thang B1",
+    "leaderName": "taquocthang98@gmail.com",
+    "latitude": 10.731475805054036,
+    "longitude": 106.69450275599955,
+    "totalPeople": 0,
+    "totalComment": 0
+  },
+  {
+    "id": "iI9glqxvYYOvyydCAqrVgIQ2A7W2",
+    "name": "Dai Long Station",
+    "leaderName": "aquira018@gmail.com",
+    "latitude": 10.73892603270657,
+    "longitude": 106.68740630149841,
+    "totalPeople": 0,
+    "totalComment": 0
+  }
   ]
 }
